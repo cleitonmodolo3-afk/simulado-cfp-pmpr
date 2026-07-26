@@ -1,0 +1,10 @@
+*{box-sizing:border-box}body{margin:0;font-family:Arial,sans-serif;background:#f3f4f6;color:#17202a}.app{max-width:850px;margin:0 auto;padding:24px}header{background:#111827;color:#fff;padding:28px;border-radius:18px 18px 0 0}header h1{margin:0 0 8px}header p{margin:0;color:#d1d5db}.top{display:flex;justify-content:space-between;background:#fff;padding:14px 20px;border-bottom:1px solid #ddd}.card{background:#fff;padding:28px;border-radius:0 0 18px 18px;box-shadow:0 8px 30px #0001}.numero{font-weight:bold;color:#555;margin-bottom:15px}.questao{font-size:1.18rem;line-height:1.65}.botoes{display:flex;gap:14px;margin-top:26px}.btn{flex:1;padding:16px;border:0;border-radius:12px;font-size:1.05rem;font-weight:bold;cursor:pointer}.v{background:#dcfce7;color:#166534}.f{background:#fee2e2;color:#991b1b}.btn:hover{filter:brightness(.96)}.feedback{margin-top:20px;padding:16px;border-radius:12px;font-weight:bold}.ok{background:#dcfce7;color:#166534}.erro{background:#fee2e2;color:#991b1b}.next{margin-top:15px;width:100%;padding:14px;border:0;border-radius:10px;background:#111827;color:#fff;cursor:pointer}.secondary{margin-top:18px;padding:12px 18px;border:1px solid #bbb;border-radius:10px;background:#fff;cursor:pointer}.hidden{display:none}.resultado{background:#fff;padding:28px;border-radius:18px;margin-top:20px}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:20px 0}.stat{padding:16px;border-radius:12px;background:#f3f4f6;text-align:center}.review{margin-top:20px}.review-item{padding:14px;border-bottom:1px solid #ddd}.review-item strong{display:block;margin-bottom:5px}@media(max-width:600px){.app{padding:10px}.botoes{flex-direction:column}.stats{grid-template-columns:1fr}}
+.anulada-badge {
+  margin: 12px 0;
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: #fff3cd;
+  color: #664d03;
+  border: 1px solid #ffecb5;
+  font-weight: 700;
+}
